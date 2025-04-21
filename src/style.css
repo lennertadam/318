@@ -1,0 +1,30 @@
+/*
+* File: style.css
+* Author: Lennert Ádám
+* Copyright: 2025, Lennert Ádám
+* Group: Szoft 1/N
+* Date: 2025-04-21
+* Github: !!!!!
+* Licenc: MIT
+*/
+
+div{
+    padding: 2px;
+    
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+}
+
+input{
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: darkgoldenrod;
+    color: white;
+}
